@@ -1,1 +1,2 @@
-5/7/2024 - First day learning Python with Cisco Skills for All. Overall, I would rate it a 3 out of 10. Most of the day was spent trying to figure out GitHub and downloading Python. However, for what it's worth, the introduction to Python seemed similar to JavaScript, which I already have experience with.
+5/7/2024 - First day learning Python with the Cisco Skills for All. Overall, I would rate it a 3 out of 10. Most of the day consisted of trying to figure GitHub and Python out, downloading the necessary stuff, and whatnot. But from what I was for into the Cisco, it looks similar to JavaScript, something I already have experience in. 
+5/8/2024 - Day 2 of learning Python. 
