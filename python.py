@@ -1,1 +1,1 @@
-print("Hisssssss...")
+print("\"I\'m", "\"learning\"", "\"\"Python\"\"", sep="\"\n\"", end="\"")
