@@ -1,2 +1,2 @@
 # CyberSecurity-Learning-Journey
-Ok, so hello, my name is Alexander Lustig. I plan on entering the cyber security field will pursuing a degree at Georgia Tech. This repository is where I will be documenting my journey as I go about leaning cyber in college and the future. Thank you
+"Hello, my name is Alexander Lustig. I plan to enter the cybersecurity field while pursuing a degree at Georgia Tech. This repository is where I will document my journey as I learn about cybersecurity in college and beyond. Thank you
