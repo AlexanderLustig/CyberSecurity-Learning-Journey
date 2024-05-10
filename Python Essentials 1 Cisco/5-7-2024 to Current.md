@@ -4,4 +4,4 @@
 
 5/9/2024 - Ok, so day 3. I finished up the second module today. I struggled a bit with the final test and had to retake it three times, but finally passed with a 90%. A few of the things I got wrong were stupid mistakes, others I just didn't know the answer to. But upon seeing what the correct answer was at the end, I was able to understand why it was the right answer. 6 out of 10.
 
-5/10/2024
+Date: 5/10/2024 - Today was relatively easy. I learned about 'if-else' statements. Initially, I struggled because my brain kept defaulting to using curly brackets, similar to Java. I also had some issues with "elif" and the use of colons, but I quickly understood and was able to complete the remaining tasks relatively quickly. I'd rate today an 8 out of 10.
