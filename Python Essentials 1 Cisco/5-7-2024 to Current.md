@@ -10,5 +10,5 @@
 
 5/14/2024 - Today was a bit challenging due to feeling very tired. I found it difficult to stay awake long enough to complete my lessons. As a result, I didn’t make much progress today. However, I plan to make up for this by putting in extra effort tomorrow.
 
-
+5/16/2024 - Finally finished the 3rd module. Had to cram a bit more today as I missed the last few days. Felt a bit demotivated near the end, like I didn't want to continue, but I stuck to it. Finished the module test with a 95% on the second try.
 
