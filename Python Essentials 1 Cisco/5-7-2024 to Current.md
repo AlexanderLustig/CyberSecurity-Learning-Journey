@@ -12,3 +12,4 @@
 
 5/16/2024 - Finally finished the 3rd module. Had to cram a bit more today as I missed the last few days. Felt a bit demotivated near the end, like I didn't want to continue, but I stuck to it. Finished the module test with a 95% on the second try.
 
+5/20/2024 - Finally back. Last few days where a bit busy with college and registering for classes and all the other necessary steps, so I wasn't able to do much coding. But today, I learnt functions. Pretty easy to understand. 7 out of 10
