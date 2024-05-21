@@ -12,4 +12,8 @@
 
 5/16/2024 - Finally finished the 3rd module. Had to cram a bit more today as I missed the last few days. Felt a bit demotivated near the end, like I didn't want to continue, but I stuck to it. Finished the module test with a 95% on the second try.
 
+***********GRAMMER FIX***************
+
 5/20/2024 - Finally back. Last few days where a bit busy with college and registering for classes and all the other necessary steps, so I wasn't able to do much coding. But today, I learnt functions. Pretty easy to understand. 7 out of 10
+
+5/21/2024 - Did more practice with function. Mainly just labs. Some of the labs gave like zero information on what it wanted my to create, so that was annoying. Ohter then that, the unit qui was pretty easy to understand as I already knew how funciton work. 6 out of 10 due to lack infromation from many of the projects. Needed better instructions.
