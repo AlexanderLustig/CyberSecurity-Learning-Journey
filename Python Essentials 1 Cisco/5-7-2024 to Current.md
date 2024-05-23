@@ -17,3 +17,5 @@
 5/20/2024 - Finally back. Last few days where a bit busy with college and registering for classes and all the other necessary steps, so I wasn't able to do much coding. But today, I learnt functions. Pretty easy to understand. 7 out of 10
 
 5/21/2024 - Did more practice with function. Mainly just labs. Some of the labs gave like zero information on what it wanted my to create, so that was annoying. Ohter then that, the unit qui was pretty easy to understand as I already knew how funciton work. 6 out of 10 due to lack infromation from many of the projects. Needed better instructions.
+
+5/23/2024 - I didn't log yesterday's lesson as there wasn't much intereresting to log. Same as today. More of the same learning. But I did get a glance at what the final progect will be. Its gonna be make a TicTacToe board and have the computer be one of the players and you try to beat it. I did something similar in Java a year ago, but dont remeber much from how I coded that, so this should be interesting.
