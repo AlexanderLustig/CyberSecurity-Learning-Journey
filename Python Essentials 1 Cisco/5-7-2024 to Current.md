@@ -12,10 +12,11 @@
 
 5/16/2024 - Finally finished the 3rd module. Had to cram a bit more today as I missed the last few days. Felt a bit demotivated near the end, like I didn't want to continue, but I stuck to it. Finished the module test with a 95% on the second try.
 
-***********GRAMMER FIX***************
+5/20/2024 - Finally back. The last few days were a bit busy with college, registering for classes, and all the other necessary steps, so I wasn't able to do much coding. But today, I learned functions. Pretty easy to understand. 7 out of 10.
 
-5/20/2024 - Finally back. Last few days where a bit busy with college and registering for classes and all the other necessary steps, so I wasn't able to do much coding. But today, I learnt functions. Pretty easy to understand. 7 out of 10
+5/21/2024 - Did more practice with functions, mainly just labs. Some of the labs provided little information on what they wanted me to create, which was annoying. Other than that, the unit quiz was pretty easy to understand as I already knew how functions work. 6 out of 10 due to lack of information from many of the projects. Needed better instructions.
 
-5/21/2024 - Did more practice with function. Mainly just labs. Some of the labs gave like zero information on what it wanted my to create, so that was annoying. Ohter then that, the unit qui was pretty easy to understand as I already knew how funciton work. 6 out of 10 due to lack infromation from many of the projects. Needed better instructions.
+5/23/2024 - I didn't log yesterday's lesson as there wasn't much interesting to log. Same as today. More of the same learning. But I did get a glance at what the final project will be. It's going to be making a TicTacToe board and having the computer be one of the players, and you try to beat it. I did something similar in Java a year ago, but don't remember much from how I coded that, so this should be interesting.
 
-5/23/2024 - I didn't log yesterday's lesson as there wasn't much intereresting to log. Same as today. More of the same learning. But I did get a glance at what the final progect will be. Its gonna be make a TicTacToe board and have the computer be one of the players and you try to beat it. I did something similar in Java a year ago, but dont remeber much from how I coded that, so this should be interesting.
+5/25/2024 - Finally finished all the lessons and now I'm on the final project and test. I will do the project first, which is to make the TicTacToe game. I don't really know how I will go about doing this, but that is something I will figure out another day with more research and whatnot.
+
