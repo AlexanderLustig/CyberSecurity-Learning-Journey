@@ -22,4 +22,4 @@
 
 ************GRAMMER************
 
-5/27/2024 - 
+5/27/2024 - Ok, so I ompleted the game in about an hour to an hour and a half. Not as hard as when I tryed it with java. I did have ChatGPT help me with finding sytax errors and some basic code, but I feel like I did most of the heavy lifting. 9 out of 10 today. Now on to the final test tomorrow, so lets hope I pass that easily. * Side note - First day of summer classes at college tomorrow, so that should be interesting. *
