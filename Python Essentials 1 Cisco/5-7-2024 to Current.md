@@ -20,3 +20,6 @@
 
 5/25/2024 - Finally finished all the lessons and now I'm on the final project and test. I will do the project first, which is to make the TicTacToe game. I don't really know how I will go about doing this, but that is something I will figure out another day with more research and whatnot.
 
+************GRAMMER************
+
+5/27/2024 - 
