@@ -20,6 +20,4 @@
 
 5/25/2024 - Finally finished all the lessons and now I'm on the final project and test. I will do the project first, which is to make the TicTacToe game. I don't really know how I will go about doing this, but that is something I will figure out another day with more research and whatnot.
 
-************GRAMMER************
-
-5/27/2024 - Ok, so I ompleted the game in about an hour to an hour and a half. Not as hard as when I tryed it with java. I did have ChatGPT help me with finding sytax errors and some basic code, but I feel like I did most of the heavy lifting. 9 out of 10 today. Now on to the final test tomorrow, so lets hope I pass that easily. * Side note - First day of summer classes at college tomorrow, so that should be interesting. *
+5/27/2024 - Ok, so I completed the game in about an hour to an hour and a half. Not as hard as when I tried it with Java. I did have ChatGPT help me with finding syntax errors and some basic code, but I feel like I did most of the heavy lifting. 9 out of 10 today. Feels good to finally have completed this course. I don't know if I will continue with the intermediate course or another course, or maybe even a side project. I'll see based on how much free time I have in the future what I want to do. *Side note - First day of summer classes at college tomorrow, so that should be interesting.*
